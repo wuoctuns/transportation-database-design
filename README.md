@@ -40,4 +40,4 @@ images/
 
 ## 👨‍💻 Author
 **Tran Quoc Tuan**
-Computer Science Student at University of Economic in Ho Chi Minh City @ UEH
+Computer Science Student at University of Economic in Ho Chi Minh City
