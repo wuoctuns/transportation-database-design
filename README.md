@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This project was developed as part of the **Database Systems** course at the University of Economics Ho Chi Minh City (UEH).
+This project was developed as part of the **Database** course at the University of Economics Ho Chi Minh City (UEH).
 The system is designed for a transportation and logistics company, supporting the management of customers, orders, products, employees, deliveries, and payments.
 
 ---
