@@ -105,8 +105,3 @@ University of Economics Ho Chi Minh City (UEH)
 
 📧 Email: tuantran192006@gmail.com
 
----
-
-## 📄 License
-
-This project is released under the **MIT License**.
