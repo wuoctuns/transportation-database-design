@@ -1,6 +1,6 @@
-# 🚚 Transportation Database Design
+# Transportation Database Design
 
-## 📖 Overview
+## Overview
 
 This project was developed as part of the **Database** course at the **University of Economics Ho Chi Minh City (UEH)**.
 
@@ -8,7 +8,7 @@ The project focuses on designing and implementing a relational database system f
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design a normalized relational database.
 - Apply database design principles and ERD modeling.
@@ -18,7 +18,7 @@ The project focuses on designing and implementing a relational database system f
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Microsoft SQL Server
 - SQL (DDL, DML, DCL)
@@ -30,7 +30,7 @@ The project focuses on designing and implementing a relational database system f
 
 ---
 
-## ✨ Features
+## Features
 
 - Customer Management
 - Product Management
@@ -45,7 +45,7 @@ The project focuses on designing and implementing a relational database system f
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 transportation-database-design
@@ -70,7 +70,7 @@ transportation-database-design
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | Folder | Description |
 |---------|-------------|
@@ -80,7 +80,7 @@ transportation-database-design
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Execute **create_tables.sql** to create the database schema.
 2. Run **insert_data.sql** to populate sample data.
@@ -89,14 +89,14 @@ transportation-database-design
 
 ---
 
-## 📚 Course Information
+## Course Information
 
 - **Course:** Database
 - **University:** University of Economics Ho Chi Minh City (UEH)
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Tran Quoc Tuan**
 
